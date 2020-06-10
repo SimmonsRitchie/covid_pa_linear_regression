@@ -1,0 +1,22 @@
+@import '~bulma/sass/utilities/_all.sass';
+@import '~bulma/sass/base/_all.sass';
+@import '~bulma/sass/form/_all.sass';
+@import '~bulma/sass/elements/title.sass';
+@import '~bulma/sass/elements/button.sass';
+
+.column-full-height { 
+  display: flex;
+}
+
+.notification-full-width {
+  width: 100%;
+}
+
+.val-list__table {
+  width: 250px;
+  padding-bottom: 10px;
+  td {
+    border: 1px solid black;
+
+  }
+}
